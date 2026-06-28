@@ -18,6 +18,7 @@ const CATEGORIES = {
   "Groceries":      { color: "#84CC16", icon: "🛒" },
   "Utilities":      { color: "#F59E0B", icon: "⚡" },
   "Investment":     { color: "#06B6D4", icon: "📈" },
+  "Protein & Supplements": { color: "#22D3EE", icon: "💪" },
   "Other":          { color: "#6B7280", icon: "📦" },
 };
 
@@ -30,6 +31,7 @@ const CATEGORY_RULES = {
   "Entertainment":  ["netflix","amazon prime","hotstar","disney","spotify","youtube premium","zee5","sonyliv","jiocinema","movie","cinema","pvr","inox","bookmyshow","games","concert","event"],
   "Health":         ["medicine","pharmacy","doctor","hospital","clinic","apollo","medplus","netmeds","pharmeasy","1mg","gym","fitness","yoga","cult","lab","test","scan","medical","dentist"],
   "Utilities":      ["electricity","water","gas","internet","broadband","mobile recharge","airtel","jio","vodafone","bsnl","dth","cable","maintenance","society","wifi","recharge","postpaid"],
+  "Protein & Supplements": ["protein","whey","creatine","optimum nutrition","on whey","myprotein","muscleblaze","healthkart","supplement","bcaa","preworkout"],
   "Investment":     ["zerodha","groww","kuvera","coin","mutual fund","sip","stocks","shares","fd","fixed deposit","ppf","nps","gold","etf","investment","trading","smallcase","upstox"],
 };
 
