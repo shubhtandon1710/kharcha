@@ -25,7 +25,7 @@ const CATEGORIES = {
 const CATEGORY_RULES = {
   "Food & Dining":  ["swiggy","zomato","coffee","cafe","restaurant","food","chai","biryani","pizza","burger","tea","lunch","dinner","breakfast","starbucks","mcdonalds","kfc","dominos","snacks","juice","bakery","boojee","blue tokai","third wave","subko"],
   "Transport":      ["uber","ola","rapido","auto","rickshaw","taxi","metro","bus","train","petrol","diesel","fuel","parking","toll","flight","irctc","redbus","cab","namma yatri"],
-  "Groceries":      ["blinkit","zepto","bigbasket","dmart","grofers","instamart","vegetables","fruits","milk","grocery","kirana","supermarket","ration","reliance fresh","jiomart"],
+  "Groceries":      ["blinkit","zepto","bigbasket","dmart","grofers","instamart","vegetables","fruits","milk","grocery","kirana","supermarket","ration","reliance fresh","jiomart","beans"],
   "Shopping":       ["amazon","flipkart","myntra","ajio","meesho","nykaa","clothing","clothes","shoes","fashion","mall","zara","h&m","westside","lifestyle","decathlon"],
   "EMI & Loans":    ["emi","loan","equitas","bajaj","home loan","car loan","personal loan","credit card","emi payment"],
   "Entertainment":  ["netflix","amazon prime","hotstar","disney","spotify","youtube premium","zee5","sonyliv","jiocinema","movie","cinema","pvr","inox","bookmyshow","games","concert","event"],
